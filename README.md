@@ -2,8 +2,8 @@
 
 <!-- This creates the dynamic typing text effect -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Computer+Science+%7C+Statistics;Financial+Computation+and+Modeling+%7C+Data+Science;Aspiring Quant Trader+%26+Dev%2C MLE%2C SWE%2C DS" alt="Typing SVG" />
+  <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
+    <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Computer+Science+%7C+Statistics;Financial+Computation+and+Modeling+%7C+Data+Science;Aspiring+Quant+Trader+%26+Dev%2C+MLE%2C+SWE%2C+DS](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Computer+Science+%7C+Statistics;Financial+Computation+and+Modeling+%7C+Data+Science;Aspiring+Quant+Trader+%26+Dev%2C+MLE%2C+SWE%2C+DS)" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,20 +14,20 @@
 I am highly interested in all Quantitative Trading/Development/Research, Machine Learning/AI Development, Data Science, and Software Engineering opportunities.
 
 ### 🛠️ Tech Stack & Skills
-
+```text
 🌐 Full-Stack: React.js, PostgreSQL
 📊 Data Science & ML: NumPy, Pandas 
 💻 Languages: Python
 
 Club, Rice AWS Club, and Society of Hispanic Engineers (SHPE)
 * 🔬 Previous developer experience at Machine Learning at Rice and Rice Data Science
-
+```
 ### 📊 GitHub Stats
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardo-d-garciaE&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leonardo-d-garcia&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-d-garcia&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
 ### 🤝 Let's Connect!
