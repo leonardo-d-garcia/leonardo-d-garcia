@@ -2,8 +2,8 @@
 
 <!-- This creates the dynamic typing text effect -->
 <p align="center">
-  <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
-    <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Computer+Science+%7C+Statistics;Financial+Computation+and+Modeling+%7C+Data+Science;Aspiring+Quant+Trader+%26+Dev%2C+MLE%2C+SWE%2C+DS](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Computer+Science+%7C+Statistics;Financial+Computation+and+Modeling+%7C+Data+Science;Aspiring+Quant+Trader+%26+Dev%2C+MLE%2C+SWE%2C+DS)" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Computer+Science+%7C+Statistics;Financial+Computation+and+Modeling+%7C+Data+Science;Aspiring+Quant+Trader+%26+Dev%2C+MLE%2C+SWE%2C+DS" alt="Typing SVG" />
   </a>
 </p>
 
