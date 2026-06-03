@@ -15,12 +15,17 @@ I am highly interested in all Quantitative Trading/Development/Research, Machine
 
 ### 🛠️ Tech Stack & Skills
 ```text
-🌐 Full-Stack: React.js, PostgreSQL
-📊 Data Science & ML: NumPy, Pandas 
-💻 Languages: Python
 
-Club, Rice AWS Club, and Society of Hispanic Engineers (SHPE)
-* 🔬 Previous developer experience at Machine Learning at Rice and Rice Data Science
+* **💻 Languages:** Python, Java, JavaScript, TypeScript, R, MATLAB, HTML, CSS
+* **🌐 Frontend & UI:** React, Next.js, Tailwind CSS, shadcn/ui, Framer Motion, GSAP
+* **📊 Data Science & ML:** NumPy, Pandas, SciKit-Learn, Matplotlib, Seaborn
+* **🗄️ Backend & Databases:** PostgreSQL, SQLite, Supabase, Cloudflare D1
+* **⚙️ Tools & Deployment:** Vite, Vercel, Cloudflare Pages
+
+### 🚀 Campus Involvement & Experience
+
+* **Active Member:** Rice AWS Club, Society of Hispanic Engineers (SHPE)
+* **🔬 Previous Developer:** Machine Learning at Rice, Rice Data Science
 ```
 ### 📊 GitHub Stats
 
