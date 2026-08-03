@@ -24,8 +24,7 @@ I am highly interested in all Quantitative Trading/Development/Research, Machine
 
 ### 🚀 Campus Involvement & Experience
 
-* **Active Member:** Rice AWS Club, Society of Hispanic Engineers (SHPE)
-* **🔬 Previous Developer:** Machine Learning at Rice, Rice Data Science
+* **Active Member:** Machine Learning at Rice, Rice Data Science, Rice AWS Club, Society of Hispanic Engineers (SHPE)
 ```
 ### 📊 GitHub Stats
 
