@@ -9,7 +9,7 @@
 
 ### 🧑‍🚀 About Me
 
-**Undergraduate Rice University** pursuing a degree in Computer Science.
+**Undergraduate @ Rice University** pursuing a degree in Computer Science.
 
 I am highly interested in all Quantitative Trading/Development/Research, Machine Learning/AI Development, Data Science, and Software Engineering opportunities.
 
