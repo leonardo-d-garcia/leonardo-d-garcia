@@ -9,7 +9,7 @@
 
 ### 🧑‍🚀 About Me
 
-**Sophomore @ Rice University** pursuing a dual degree in Computer Science and Statistics, with minors in Financial Computation and Modeling (FCAM) and Data Science.
+**Undergraduate Rice University** pursuing a degree in Computer Science.
 
 I am highly interested in all Quantitative Trading/Development/Research, Machine Learning/AI Development, Data Science, and Software Engineering opportunities.
 
